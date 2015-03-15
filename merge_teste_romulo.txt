@@ -1,1 +1,3 @@
 linha 1, ate o momento sem conflitos.
+
+linha 3, criando o conflito para o merge dos arquivos.
